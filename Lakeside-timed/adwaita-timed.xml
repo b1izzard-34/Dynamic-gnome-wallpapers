@@ -71,7 +71,7 @@
 <transition type="overlay">
 <duration>1800.0</duration>
 <from>/usr/share/backgrounds/gnome/Lakeside(9).jpeg</from>
-<to>/usr/share/backgrounds/gnome/Lakeside (10).jpeg</to>
+<to>/usr/share/backgrounds/gnome/Lakeside(10).jpeg</to>
 </transition>
 
 <static>
