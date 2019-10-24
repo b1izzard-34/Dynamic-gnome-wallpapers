@@ -5,7 +5,7 @@ Day night wallpapers for gnome-shell
 Gnome shell installation.
 
 ## Wallpaper format
-###### Every wallpaper folder contains :
+### Every wallpaper folder contains :
 - JPEG/ JPG files of the wallpaper.
 - XML file containing transition information of the wallpaper.
 - XML file that adds the wallpaper entry to the gnome backgrounds menu in the control center.
