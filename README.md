@@ -15,7 +15,11 @@ Gnome shell installation.
 - install script takes names of the theme as an argument.
 
 ## Wallpapers
-- [Exodus](https://giphy.com/gifs/minimal-wallpaper-dynamic-SAH6uUHbZQPe2bl2zD)
+- [Exodus](https://dynamicwallpaper.club/wallpaper/1fwttqzokh6)
+- [Minimal-Mojave](https://dynamicwallpaper.club/wallpaper/b03wojghaul)
+- [MojaveV2](https://dynamicwallpaper.club/wallpaper/cm8q0vwwa1t)
 
 ## Credits
 - Exodus : https://dynamicwallpaper.club/u/Juanra
+- Minimal-Mojave : https://dynamicwallpaper.club/u/octaviotti
+- MojaveV2 : https://dynamicwallpaper.club/u/WeighingDog
