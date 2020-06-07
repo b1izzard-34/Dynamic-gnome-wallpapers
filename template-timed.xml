@@ -1,0 +1,24 @@
+<background>
+  <starttime>
+    <year>2011</year>
+    <month>11</month>
+    <day>24</day>
+    <hour>{{.start_time}}</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+
+{{foreach .image in .images}}
+	<static>
+	<duration>{{.duration}}</duration>
+	<file>{{.user_home}}/.local/share/backgrounds/gnome/{{.name}}-timed/{{.image.current}}</file>
+	</static>
+
+	<transition type="overlay">
+	<duration>{{.transition_duration}}</duration>
+	<from>{{.user_home}}/.local/share/backgrounds/gnome/{{.name}}-timed/{{.image.current}}</from>
+	<to>{{.user_home}}/.local/share/backgrounds/gnome/{{.name}}-timed/{{.image.next}}</to>
+	</transition>
+{{end}}
+
+</background>
